@@ -12,6 +12,8 @@
     <modules>
 
         <module>authorization-code-flow</module>
+        <module>client-credentials-flow/resource-server</module>
+        <module>client-credentials-flow/client</module>
     </modules>
 
 
